@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image should match the snapshots 1`] = `
+<Image
+  source={
+    Object {
+      "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/1.jpg ",
+    }
+  }
+/>
+`;
